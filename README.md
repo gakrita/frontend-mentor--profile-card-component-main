@@ -1,5 +1,7 @@
 # Frontend Mentor - Profile card component
 
+## 🎨 Επιθυμητό Design
 ![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
 
-[Δες το Live εδώ!](https://gakrita.github.io/Frontend-Mentor--Profile-card-component-main/)
+## 📸 Η λύση μου
+👉 [Live Demo](https://gakrita.github.io/Frontend-Mentor--Profile-card-component-main/)
